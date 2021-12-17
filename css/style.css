@@ -10,7 +10,7 @@
 ======================================*/
 
 body {
-  background-color: #f5f5f5;
+  background-color: #ffffff;
   color: #4e4e4e;
 }
 
@@ -20,11 +20,11 @@ h3,
 h4,
 h5,
 h6 {
-  color: #1e1e1e;
+  color: #061122;
 }
 
 a {
-  color: #1e1e1e;
+  color: #ff5100;
   transition: all 0.5s ease-in-out;
 }
 
